@@ -1,0 +1,5 @@
+---
+id: 3d6cd7f2-3471-4ca5-b0b8-0fc0af68c6c6
+title: George Lakoff
+---
+

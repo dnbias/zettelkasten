@@ -1,0 +1,15 @@
+---
+date: "\\[2022-12-30 Fri 08:04\\]"
+id: 8a5b097c-f0a4-4ab4-a87c-4e465b26db08
+title: GitWatch
+---
+
+- <https://github.com/gitwatch/gitwatch>
+
+`gitwatch.sh [-r <remote> [-b <branch>]] <file or directory to watch>`
+
+`mkdir -p "$HOME/.config/systemd/user" && cp gitwatch@.service $HOME/.config/systemd/user`
+
+`systemctl --user --now enable gitwatch@$(systemd-escape "'-r url/to/repository' /path/to/folder").service`
+
+Works fairly well, use `ssh` and be happy.

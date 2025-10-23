@@ -1,0 +1,38 @@
+---
+id: bad17774-79e0-4815-aa38-432e09bfb5f1
+title: Parsing
+---
+
+Vedi:
+
+- <https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm>
+- [[Parser Top-Down]]
+
+# Grammar
+
+E –\> E "+" E
+
+|           |
+|-----------|
+| E "-" E   |
+| "-" E     |
+| E "\*" E  |
+| E "/" E   |
+| E "^" E   |
+| "(" E ")" |
+| v         |
+
+# Rules
+
+We want to build a parser that will
+
+1.  Produce an error message if its input is not in the language of this grammar.
+2.  Produce an "abstract syntax tree" (AST) reflecting the structure of the input, if the input is in the language of the grammar.
+
+Each input in the language will have a single AST based on the following precedence and associativity rules:
+
+- Parentheses have precedence over all operators.
+- ^ (exponentiation) has precedence over unary - and the binary operators /, \*, -, and +.
+- 
+- Unary - has precedence over binary - and +.
+- ^ is right associative while all other binary operators are left associative.

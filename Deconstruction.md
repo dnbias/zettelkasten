@@ -1,0 +1,6 @@
+---
+date: "\\[2022-12-01 Thu 16:09\\]"
+id: aa70cab1-02ee-47ac-92c3-51e133a50b19
+title: Deconstruction
+---
+

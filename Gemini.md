@@ -1,0 +1,6 @@
+---
+date: "\\[2023-12-21 Thu 06:17\\]"
+id: 0d63320a-ef3e-4760-ba68-dece5a2c64ba
+title: Gemini
+---
+

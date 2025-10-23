@@ -1,0 +1,13 @@
+---
+id: a9417549-6f9f-48ab-b23c-1c411fee45b8
+title: org-roam
+---
+
+- Author: [[Jethro Kuan]]
+- Manual: <https://www.orgroam.com/manual.html>
+
+# Problems
+
+- symlinking inside the `org-roam-directory` makes things weird
+  - emacs `file-truename` does not fix my particular issue with a symlink to a Dropbox folder for the dailies
+  - at this point it's better to use a private github repo for the private stuff

@@ -1,0 +1,9 @@
+---
+date: "\\[2022-11-29 Tue 17:48\\]"
+id: 94d05b87-d1fd-46d6-8952-109aa1d5788c
+title: NotDeft
+---
+
+- <https://github.com/hasu/notdeft>
+
+A spin-off of deft, less configurable but efficient and fast over a very large number of note files.

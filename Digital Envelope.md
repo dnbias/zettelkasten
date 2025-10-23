@@ -1,0 +1,13 @@
+---
+date: "\\[2022-03-23 Wed 14:36\\]"
+id: e5c81738-06bf-4d9d-b962-cf9bc56023ef
+title: Digital Envelope
+---
+
+- Source: <http://security.nknu.edu.tw/crypto/faq/html/2-2-4.html>
+
+Combines public and secret key encryption:
+
+- use a secret key $`K_{1}`$ to encrypt the messsage $`M`$
+- use the public key of the receiver to encrypt the secret key $`K_{1}`$
+- the receiver will decrypt $`K_{1}`$ with its private key

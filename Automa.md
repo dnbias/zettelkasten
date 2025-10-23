@@ -1,0 +1,5 @@
+---
+id: 1ee42655-3289-4a7a-941f-f0bf8ff547be
+title: Automa
+---
+

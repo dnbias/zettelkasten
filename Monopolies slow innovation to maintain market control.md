@@ -1,0 +1,6 @@
+---
+date: "\\[2024-02-04 Sun 17:32\\]"
+id: 7df0fe31-a5f1-4a32-9a11-75499a12e2f6
+title: Monopolies slow innovation to maintain market control
+---
+

@@ -1,0 +1,5 @@
+---
+id: 785db1d0-808e-4fa0-ba68-d88adc60aeb2
+title: Makoto Yukimura
+---
+

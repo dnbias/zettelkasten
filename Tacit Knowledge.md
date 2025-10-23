@@ -1,0 +1,5 @@
+---
+id: 9beb54c7-e82b-49f3-bc56-214ea3ccb122
+title: Tacit Knowledge
+---
+

@@ -1,0 +1,5 @@
+---
+id: 35e4db95-7fb3-4c6c-9387-037e933224ff
+title: Talcot Parsons
+---
+

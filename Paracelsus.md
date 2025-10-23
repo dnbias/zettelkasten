@@ -1,0 +1,8 @@
+---
+id: 4e97b280-4167-4b57-92d4-3513d29b3f1f
+title: Paracelsus
+---
+
+Paracelsus, born Theophrastus von Hohenheim, was a Swiss physician, alchemist, lay theologian, and philosopher of the German Renaissance.
+
+- he took the name Paracelsus later in life, meaning "beside or similar to Celsus," an early Roman physician

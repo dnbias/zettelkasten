@@ -1,0 +1,7 @@
+---
+date: "\\[2021-12-23 Thu 00:09\\]"
+id: adf949bf-9ffe-4c79-b225-9a47a2eecef4
+title: TIL
+---
+
+`Today I Learned`

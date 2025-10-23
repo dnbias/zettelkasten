@@ -1,0 +1,6 @@
+---
+id: cfbaf5dd-2242-42d5-a2d5-eca320dab0b7
+title: Docuverse
+---
+
+A global distributed electronic library of interconnected documents, a *metadocument*

@@ -1,0 +1,9 @@
+---
+date: "\\[2023-03-16 Thu 09:49\\]"
+id: a524447d-1d51-4c23-a5a4-ae2b617204d5
+title: "l-Diversity: Privacy Beyond k-Anonymity"
+---
+
+- Source:
+- Author: D. Kifer
+- Related: Data Mining

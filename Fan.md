@@ -1,0 +1,7 @@
+---
+date: "\\[2022-01-03 Mon 15:59\\]"
+id: 23693f1a-812b-4b6a-8af7-374e795e82ad
+title: Fan
+---
+
+Fanatic

@@ -1,0 +1,27 @@
+---
+date: "\\[2022-05-02 Mon 03:33\\]"
+id: 43f645a8-e5d4-4ab7-ad45-a39059fdfe88
+title: Numbering Headings w/ CSS
+---
+
+``` css
+body {
+    counter-reset: h2counter;
+}
+h1 {
+    counter-reset: h2counter;
+}
+h2 {
+    counter-reset: h3counter;
+}
+h2:before {
+    content: counter(h2counter) ".\0000a0\0000a0";
+    counter-increment: h2counter;
+}
+h3:before {
+    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+    counter-increment: h3counter;
+}
+```
+
+The odd characters are blanks.

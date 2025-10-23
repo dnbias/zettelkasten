@@ -1,0 +1,6 @@
+---
+id: 73ef57da-d72f-4024-a6ed-4b0fbaa40f98
+title: Lethe
+---
+
+In Greek Mythology, one of the five rivers of the underworld of Hades. The river of forgetfulness and oblivion.

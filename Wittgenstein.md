@@ -1,0 +1,7 @@
+---
+date: "\\[2023-12-05 Tue 05:38\\]"
+id: e81950b9-bace-4f5e-af5a-2fd576d92a5e
+title: Wittgenstein
+---
+
+1889-1951

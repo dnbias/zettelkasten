@@ -1,0 +1,5 @@
+---
+id: 7dc3cec9-af30-414e-b8ce-38de92ec7da5
+title: Incel
+---
+

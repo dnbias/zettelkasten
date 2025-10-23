@@ -1,0 +1,26 @@
+---
+date: "\\[2022-06-29 Wed 18:00\\]"
+id: 8d52ba7c-61af-4424-849c-f4ddbff244bf
+title: Lily58
+---
+
+- <https://github.com/keyhive/build_guides/blob/master/docs/keyboards/lily58pro.md>\]\]
+
+# Shops
+
+## keyhive
+
+- <https://keyhive.xyz/shop/lily58>
+
+| piece          | price (\$) |
+|----------------|------------|
+| hotswap pcb    | 29         |
+| fr4 plates     | 5          |
+| pro micros (C) | 8.50 \* 2  |
+| OLED           | 9 \* 2     |
+| diodes         | 3          |
+| TRRS cable     | 3          |
+| OLED cover     | 3          |
+| \#ERROR        | \#ERROR    |
+
+- 78\$

@@ -1,0 +1,12 @@
+---
+id: b7330c27-133a-4c8a-9e5b-17f8c1d71f0b
+title: Python
+---
+
+# matplotlib
+
+- `.title`
+- `.xlabel`
+- `.plot`
+- `.savefig`
+- `.close`

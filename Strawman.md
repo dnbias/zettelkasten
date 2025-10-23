@@ -1,0 +1,7 @@
+---
+date: "\\[2022-01-02 Sun 23:46\\]"
+id: 714dd569-188b-481b-8693-73cd1aec1332
+title: Strawman
+---
+
+A strawman is a fallacious argument that distorts an opposing stance in order to make it easier to attack. Essentially, the person using the strawman pretends to attack their opponent's stance, while in reality they are actually attacking a distorted version of that stance, which their opponent doesn't necessarily support.

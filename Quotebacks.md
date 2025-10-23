@@ -1,0 +1,13 @@
+---
+date: "\\[2021-12-22 Wed 15:36\\]"
+id: 45c9f5fc-d3d2-4463-8341-f1ca2c74a892
+title: Quotebacks
+---
+
+- <https://quotebacks.net/>
+
+Project to help discourse throught the web
+
+- embed [[$cit]] from other sites
+- exports to markdown
+- exports to image

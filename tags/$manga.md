@@ -1,0 +1,5 @@
+---
+id: af8daabf-26fa-4140-a2ef-aeb10b61ed53
+title: \$manga
+---
+

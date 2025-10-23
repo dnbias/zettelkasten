@@ -1,0 +1,20 @@
+---
+id: ead1cac8-45c1-4f46-aa06-608ade960470
+title: Scacchi
+---
+
+L'evoluzione degli scacchi dice tanto dell'evoluzione della cultura Occidentale
+
+# Simbolismo
+
+## Mandala
+
+cambiamento di stato dell'animo umano
+
+## Tao
+
+## Pezzi
+
+# Evoluzione
+
+## Sempre piu' matematico

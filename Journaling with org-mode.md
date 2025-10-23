@@ -1,0 +1,11 @@
+---
+date: "\\[2022-11-29 Tue 16:37\\]"
+id: 6f5ace33-b1ce-4cd5-be63-8e81ba2b4d7c
+title: Journaling with org-mode
+---
+
+- Source: <http://www.howardism.org/Technical/Emacs/journaling-org.html>
+
+Nice journey in the different stages of a journal-user in emacs.
+
+- i.e. One huge file or many little ones

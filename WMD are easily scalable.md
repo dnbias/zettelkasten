@@ -1,0 +1,7 @@
+---
+date: "\\[2024-02-02 Fri 10:41\\]"
+id: c2a1bf14-52e6-490a-9192-ce5df5fc43c9
+title: WMD are easily scalable
+---
+
+Far more scalable than an human equivalent with the same bias.

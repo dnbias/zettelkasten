@@ -1,0 +1,6 @@
+---
+id: 43529421-7bee-47e3-9890-1356d1c6eb59
+title: How to Do Things with Words
+---
+
+- Author: [[J.L.Austin]]

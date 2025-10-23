@@ -1,0 +1,6 @@
+---
+id: d5c23aed-447a-481f-9b25-ce6b118af9c8
+title: Governing the Commons
+---
+
+- Author: [[Elinor Ostrom]]
