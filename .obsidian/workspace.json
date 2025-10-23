@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "326bd89be7cf1985",
+    "type": "split",
+    "children": [
+      {
+        "id": "362e8eb18221f7d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b453f34359d272",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06969791c2b4a29b",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a4af66a84a2aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0481b5688984c8f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74a31eecea933b44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "628a11caf492c608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "015db1942ad49e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84170120fccbfd47",
+        "type": "tabs",
+        "dimension": 68.54368932038835,
+        "children": [
+          {
+            "id": "22cf4d05c5fa9112",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6477f5baed7900a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sistemi_intelligenti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sistemi_intelligenti"
+            }
+          },
+          {
+            "id": "724556d79772b5d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51f11fc6934aa309",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "82782161a1c711e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7e8e0fa3f141b7c3",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
+          },
+          {
+            "id": "d0df2eaec6f8fee5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "676d7e0b1c7553f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "c0605171f0042ac9",
+        "type": "tabs",
+        "dimension": 31.456310679611647,
+        "children": [
+          {
+            "id": "81c2c68b28a4090b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "b9b453f34359d272",
+  "lastOpenFiles": [
+    "Zettelkasten/Untitled.base",
+    "Zettelkasten/QEC/Can free speech be controlled by industry.md",
+    "Zettelkasten/QEC/Can a monopoly be beneficial in improving a service.md",
+    "Zettelkasten/people/C.S. Lewis.md",
+    "Zettelkasten/books/The Master Switch.md",
+    "Can free speech be controlled by industry.md",
+    "Zettelkasten/Etica, Società e Privacy.md",
+    "Zettelkasten/Kronos effect.md",
+    "Q/E/C.md",
+    "Q/E",
+    "Q",
+    "Zettelkasten/QEC",
+    "Zettelkasten/A closed, controlled and optimized information system owned by a monopoly is not desirable.md",
+    "Zettelkasten/Apocrypha Discordia.md",
+    "Zettelkasten/concepts",
+    "Zettelkasten/games",
+    "Zettelkasten/tags/$cit.md",
+    "Zettelkasten/Meditations On Moloch.md",
+    "Zettelkasten/tags/$essays.md",
+    "Zettelkasten/tags/$idea.md",
+    "Zettelkasten/tags/$manga.md",
+    "Zettelkasten/tags/$memes.md",
+    "Zettelkasten/tags/$movies.md",
+    "Zettelkasten/tags/$podcasts.md",
+    "Zettelkasten/tags/$space.md",
+    "Zettelkasten/tags/$zettel.md",
+    "Zettelkasten/university/Analisi I.md",
+    "Zettelkasten/university/Diritto.md",
+    "Zettelkasten/university/Buddy Program UniTo.md",
+    "Zettelkasten/university/Erasmus.md",
+    "Zettelkasten/people/Will Monroe.md",
+    "Zettelkasten/videos",
+    "Zettelkasten/articles",
+    "Zettelkasten/books",
+    "Zettelkasten/university",
+    "Zettelkasten/people",
+    "zettelkasten/Attachments/1*XKzDnXWCX0kgSSSxEyAtfg.webp",
+    "zettelkasten/Attachments/anchovies_parse.svg",
+    "zettelkasten/Attachments/20ffb446155d64ac747ff936c53b8e51807a44d5.png",
+    "zettelkasten/Attachments/iu 1.png",
+    "zettelkasten/Attachments/iu.png",
+    "zettelkasten/Attachments/590px-Float_example.svg.png"
+  ]
+}
