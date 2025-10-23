@@ -2,8 +2,13 @@
   "items": [
     {
       "type": "folder",
-      "ctime": 1761198472705,
-      "path": "Zettelkasten/QEC"
+      "ctime": 1761199619619,
+      "path": "1. QEC"
+    },
+    {
+      "type": "folder",
+      "ctime": 1761199639413,
+      "path": "university"
     }
   ]
 }

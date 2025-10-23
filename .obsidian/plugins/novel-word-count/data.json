@@ -67,7 +67,7 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "Zettelkasten/work-life balance.md": {
+    "work-life balance.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -94,7 +94,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/w3m.md": {
+    "w3m.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -121,7 +121,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/videos/A brain in a supercomputer.md": {
+    "videos/A brain in a supercomputer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -148,7 +148,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Intelligent Agents I.md": {
+    "university/Intelligent Agents I.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -175,7 +175,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Erasmus.md": {
+    "university/Erasmus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -202,7 +202,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Diritto.md": {
+    "university/Diritto.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -229,7 +229,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Buddy Program UniTo.md": {
+    "university/Buddy Program UniTo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -256,7 +256,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Apprendimento Automatico.md": {
+    "university/Apprendimento Automatico.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -283,7 +283,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Analisi I.md": {
+    "university/Analisi I.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -310,7 +310,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/university/Algoritmi e Strutture Dati.md": {
+    "university/Algoritmi e Strutture Dati.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -337,7 +337,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$zettel.md": {
+    "tags/$zettel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -364,7 +364,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$space.md": {
+    "tags/$space.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -391,7 +391,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$podcasts.md": {
+    "tags/$podcasts.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -418,7 +418,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$movies.md": {
+    "tags/$movies.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -445,7 +445,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$memes.md": {
+    "tags/$memes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -472,7 +472,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$manga.md": {
+    "tags/$manga.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -499,7 +499,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$idea.md": {
+    "tags/$idea.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -526,7 +526,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$essays.md": {
+    "tags/$essays.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -553,7 +553,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/tags/$cit.md": {
+    "tags/$cit.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -580,7 +580,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/sklearn.md": {
+    "sklearn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -607,7 +607,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/roam.md": {
+    "roam.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -634,7 +634,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/phallocentrism.md": {
+    "phallocentrism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -661,7 +661,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Will Monroe.md": {
+    "people/Will Monroe.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -688,7 +688,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/David Mermin.md": {
+    "people/David Mermin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -715,7 +715,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/C.S. Lewis.md": {
+    "people/C.S. Lewis.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -742,7 +742,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/C.S Peirce.md": {
+    "people/C.S Peirce.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -769,7 +769,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Allen Ginsberg.md": {
+    "people/Allen Ginsberg.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -796,7 +796,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Alfred Korzybski.md": {
+    "people/Alfred Korzybski.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -823,7 +823,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Albert Camus.md": {
+    "people/Albert Camus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -850,7 +850,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Adrian Philipp.md": {
+    "people/Adrian Philipp.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -877,7 +877,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Adnan Darwiche.md": {
+    "people/Adnan Darwiche.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -904,7 +904,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/Adam Smith.md": {
+    "people/Adam Smith.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -931,7 +931,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/people/A. G. Bierce.md": {
+    "people/A. G. Bierce.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -958,7 +958,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/pandas.md": {
+    "pandas.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -985,7 +985,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/org-roam.md": {
+    "org-roam.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1012,7 +1012,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/org-mode.md": {
+    "org-mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1039,7 +1039,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/org-capture.md": {
+    "org-capture.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1066,7 +1066,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/non-Monotonic Logic.md": {
+    "non-Monotonic Logic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1093,7 +1093,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/nix.md": {
+    "nix.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1120,7 +1120,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/logocentrism.md": {
+    "logocentrism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1147,7 +1147,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/lepisma.md": {
+    "lepisma.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1174,7 +1174,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/l-Diversity- Privacy Beyond k-Anonymity.md": {
+    "l-Diversity- Privacy Beyond k-Anonymity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1201,7 +1201,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/k-Anonymous Data Mining- A Survey.md": {
+    "k-Anonymous Data Mining- A Survey.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1228,7 +1228,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/k-Anonymity- A Model for Protecting Privacy.md": {
+    "k-Anonymity- A Model for Protecting Privacy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1255,7 +1255,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/hype.md": {
+    "hype.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1282,7 +1282,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/git squash N commits.md": {
+    "git squash N commits.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1309,7 +1309,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/git new initial commit to current status.md": {
+    "git new initial commit to current status.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1336,7 +1336,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/eMail Client-Server.md": {
+    "eMail Client-Server.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1363,7 +1363,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/cognitive constipation.md": {
+    "cognitive constipation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1390,7 +1390,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/The Master Switch.md": {
+    "books/The Master Switch.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1417,7 +1417,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/Extreme learning machine- Theory and applications.md": {
+    "books/Extreme learning machine- Theory and applications.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1444,7 +1444,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/Amusing Ourselves to Death.md": {
+    "books/Amusing Ourselves to Death.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1471,7 +1471,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/A Song for Lya.md": {
+    "books/A Song for Lya.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1498,7 +1498,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/A Practical Guide to Training Restricted Boltzmann Machines.md": {
+    "books/A Practical Guide to Training Restricted Boltzmann Machines.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1525,7 +1525,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/books/A Little Life.md": {
+    "books/A Little Life.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1552,7 +1552,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/beepb00p.md": {
+    "beepb00p.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1579,7 +1579,34 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/articles/Academic writing workflow w- Emacs.md": {
+    "articles/Attention is all you need.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761192579172,
+      "modifiedDate": 1761192579172,
+      "sizeInBytes": 200,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "articles/Academic writing workflow w- Emacs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1606,7 +1633,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/articles/AI for the Next Era.md": {
+    "articles/AI for the Next Era.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1633,7 +1660,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/articles/A Roomba recorded a woman on the toilet.md": {
+    "articles/A Roomba recorded a woman on the toilet.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1660,7 +1687,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Zzamboni.md": {
+    "Zzamboni.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1687,7 +1714,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Zettelkasten.md": {
+    "Zettelkasten.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1714,7 +1741,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Zettelkasten principles.md": {
+    "Zettelkasten principles.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1741,7 +1768,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Zero.md": {
+    "Zero.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1768,7 +1795,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Zen.md": {
+    "Zen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1795,7 +1822,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Yuval Noah Harari.md": {
+    "Yuval Noah Harari.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1822,7 +1849,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Yukio Mishima.md": {
+    "Yukio Mishima.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1849,7 +1876,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/You don't love the Spirit Of Justice.md": {
+    "You don't love the Spirit Of Justice.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1876,7 +1903,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/YAEMK.md": {
+    "YAEMK.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1903,7 +1930,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Xanadu.md": {
+    "Xanadu.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1930,7 +1957,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Writing Academic Papers w- Emacs.md": {
+    "Writing Academic Papers w- Emacs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1957,7 +1984,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Work with the garage door up.md": {
+    "Work with the garage door up.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1984,7 +2011,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Wittgenstein.md": {
+    "Wittgenstein.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2011,7 +2038,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Wisecrack.md": {
+    "Wisecrack.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2038,7 +2065,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Wired.md": {
+    "Wired.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2065,7 +2092,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Winograd Schema Challenge.md": {
+    "Winograd Schema Challenge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2092,7 +2119,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/William James.md": {
+    "William James.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2119,7 +2146,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/William Gibson.md": {
+    "William Gibson.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2146,7 +2173,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Why Browse the web on Emacs.md": {
+    "Why Browse the web on Emacs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2173,7 +2200,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Where to put TeX .sty files.md": {
+    "Where to put TeX .sty files.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2200,7 +2227,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/What the F.md": {
+    "What the F.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2227,7 +2254,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/What is ‘lying flat’, and why are Chinese officials standing up to it-.md": {
+    "What is ‘lying flat’, and why are Chinese officials standing up to it-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2254,7 +2281,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/What is the best way to treat sensitive data-.md": {
+    "What is the best way to treat sensitive data-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2281,7 +2308,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/What is This-.md": {
+    "What is This-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2308,7 +2335,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Web Development.md": {
+    "Web Development.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2335,7 +2362,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Weapons of Math Destruction.md": {
+    "Weapons of Math Destruction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2362,7 +2389,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Water.md": {
+    "Water.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2389,7 +2416,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/WSDL.md": {
+    "WSDL.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2416,7 +2443,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/WMD create and reinforce disparity.md": {
+    "WMD create and reinforce disparity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2443,7 +2470,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/WMD are easily scalable.md": {
+    "WMD are easily scalable.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2470,7 +2497,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/WMD are conservative by design.md": {
+    "WMD are conservative by design.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2497,7 +2524,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/WMD are a thread to democracy.md": {
+    "WMD are a thread to democracy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2524,7 +2551,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Visitor.md": {
+    "Visitor.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2551,7 +2578,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Visage.md": {
+    "Visage.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2578,7 +2605,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Vialogues.md": {
+    "Vialogues.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2605,7 +2632,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Vestigia.md": {
+    "Vestigia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2632,7 +2659,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Verification of Imperative Programs- The VeriFast Approach.md": {
+    "Verification of Imperative Programs- The VeriFast Approach.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2659,7 +2686,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/VeriFast.md": {
+    "VeriFast.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2686,7 +2713,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/VeriFast- Imperative Programs as Proofs.md": {
+    "VeriFast- Imperative Programs as Proofs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2713,7 +2740,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Using consult-ripgrep with org-roam for searching notes.md": {
+    "Using consult-ripgrep with org-roam for searching notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2740,7 +2767,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Users are often deluded their raw sensitive data will not be seen by other people.md": {
+    "Users are often deluded their raw sensitive data will not be seen by other people.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2767,7 +2794,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Users are more likely to let a robot collect their data than a human.md": {
+    "Users are more likely to let a robot collect their data than a human.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2794,7 +2821,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ur-Fascismo.md": {
+    "Ur-Fascismo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2821,7 +2848,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Untitled.base": {
+    "Untitled.base": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2848,7 +2875,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Unnumbered sections in latex.md": {
+    "Unnumbered sections in latex.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2875,7 +2902,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Unix.md": {
+    "Unix.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2902,7 +2929,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Union-Find Set.md": {
+    "Union-Find Set.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2929,7 +2956,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Undine.md": {
+    "Undine.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2956,7 +2983,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Unconditional Hospitality.md": {
+    "Unconditional Hospitality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2983,7 +3010,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Umberto Eco.md": {
+    "Umberto Eco.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3010,7 +3037,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/UDDI.md": {
+    "UDDI.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3037,7 +3064,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Typography.md": {
+    "Typography.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3064,7 +3091,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Type Theory.md": {
+    "Type Theory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3091,7 +3118,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Triumph of the Will.md": {
+    "Triumph of the Will.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3118,7 +3145,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Transformer.md": {
+    "Transformer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3145,7 +3172,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Training data models what has been.md": {
+    "Training data models what has been.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3172,7 +3199,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Toward Real Microkernels.md": {
+    "Toward Real Microkernels.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3199,7 +3226,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Toulmin Argument.md": {
+    "Toulmin Argument.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3226,7 +3253,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Top-down.md": {
+    "Top-down.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3253,7 +3280,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Timothy Morton.md": {
+    "Timothy Morton.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3280,7 +3307,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Time Management.md": {
+    "Time Management.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3307,7 +3334,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tim Wu.md": {
+    "Tim Wu.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3334,7 +3361,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/TikTok.md": {
+    "TikTok.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3361,7 +3388,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tiangong Space Station.md": {
+    "Tiangong Space Station.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3388,7 +3415,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Thriving Henry.md": {
+    "Thriving Henry.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3415,7 +3442,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Thinking Fast and Slow.md": {
+    "Thinking Fast and Slow.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3442,7 +3469,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The data we have available is often biased.md": {
+    "The data we have available is often biased.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3469,7 +3496,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The bias of the builder ends up in what is built.md": {
+    "The bias of the builder ends up in what is built.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3496,7 +3523,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Usefulness of Useless Knowledge.md": {
+    "The Usefulness of Useless Knowledge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3523,7 +3550,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Tragedy of the Commons.md": {
+    "The Tragedy of the Commons.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3550,7 +3577,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Tale of the Student and His Son.md": {
+    "The Tale of the Student and His Son.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3577,7 +3604,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Shadow of the Torturer.md": {
+    "The Shadow of the Torturer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3604,7 +3631,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Rust Programming Language.md": {
+    "The Rust Programming Language.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3631,7 +3658,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Problem With Counterfeit People.md": {
+    "The Problem With Counterfeit People.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3658,7 +3685,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Origins of Totalitarianism.md": {
+    "The Origins of Totalitarianism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3685,7 +3712,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Operational Analysis of Queueing Network Models.md": {
+    "The Operational Analysis of Queueing Network Models.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3712,7 +3739,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Necessity of Marginalia in the Age of the Ebook.md": {
+    "The Necessity of Marginalia in the Age of the Ebook.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3739,7 +3766,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Medium is the Message.md": {
+    "The Medium is the Message.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3766,7 +3793,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Map is Not the Territory.md": {
+    "The Map is Not the Territory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3793,7 +3820,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Last of Us.md": {
+    "The Last of Us.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3820,7 +3847,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Fading Dream of the Computer Brain.md": {
+    "The Fading Dream of the Computer Brain.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3847,7 +3874,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Egg.md": {
+    "The Egg.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3874,7 +3901,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Devil's Dictionary.md": {
+    "The Devil's Dictionary.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3901,7 +3928,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Cycle.md": {
+    "The Cycle.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3928,7 +3955,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Curse of Xanadu.md": {
+    "The Curse of Xanadu.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3955,7 +3982,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Curse of Bigness.md": {
+    "The Curse of Bigness.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3982,7 +4009,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Cowpox of Doubt.md": {
+    "The Cowpox of Doubt.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4009,7 +4036,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Conversation We Have with Books.md": {
+    "The Conversation We Have with Books.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4036,7 +4063,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Construction of Social Reality.md": {
+    "The Construction of Social Reality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4063,7 +4090,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Claw of the Conciliator.md": {
+    "The Claw of the Conciliator.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4090,7 +4117,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Cat Lady.md": {
+    "The Cat Lady.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4117,7 +4144,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Boss.md": {
+    "The Boss.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4144,7 +4171,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Attention Merchants.md": {
+    "The Attention Merchants.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4171,7 +4198,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Age of Surveillance Capitalism.md": {
+    "The Age of Surveillance Capitalism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4198,7 +4225,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The Affluent Society.md": {
+    "The Affluent Society.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4225,7 +4252,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/The 1934 Production Code was self-censorship aimed at protecting introits.md": {
+    "The 1934 Production Code was self-censorship aimed at protecting introits.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4252,7 +4279,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Teorema.md": {
+    "Teorema.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4279,7 +4306,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Template method.md": {
+    "Template method.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4306,7 +4333,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ted Nelson.md": {
+    "Ted Nelson.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4333,7 +4360,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tecosaur's Doom Emacs Configuration.md": {
+    "Tecosaur's Doom Emacs Configuration.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4360,7 +4387,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tecnologie del Linguaggio Naturale.md": {
+    "Tecnologie del Linguaggio Naturale.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4387,7 +4414,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Taxicab.md": {
+    "Taxicab.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4414,7 +4441,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tandem Queues.md": {
+    "Tandem Queues.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4441,7 +4468,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Talcot Parsons.md": {
+    "Talcot Parsons.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4468,7 +4495,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tal Linzen.md": {
+    "Tal Linzen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4495,7 +4522,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Tacit Knowledge.md": {
+    "Tacit Knowledge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4522,7 +4549,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/TIL.md": {
+    "TIL.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4549,7 +4576,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/TED Talks.md": {
+    "TED Talks.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4576,7 +4603,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/TAAS.md": {
+    "TAAS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4603,7 +4630,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/System Crafters.md": {
+    "System Crafters.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4630,7 +4657,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Switches.md": {
+    "Switches.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4657,7 +4684,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sviluppo Software.md": {
+    "Sviluppo Software.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4684,7 +4711,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sufference.md": {
+    "Sufference.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4711,7 +4738,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Subhash Kak.md": {
+    "Subhash Kak.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4738,7 +4765,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stroop effect.md": {
+    "Stroop effect.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4765,7 +4792,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Strawman.md": {
+    "Strawman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4792,7 +4819,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Strategy.md": {
+    "Strategy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4819,7 +4846,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stochastic Parrot.md": {
+    "Stochastic Parrot.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4846,7 +4873,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stereotypes.md": {
+    "Stereotypes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4873,7 +4900,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stephen E. Toulmin.md": {
+    "Stephen E. Toulmin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4900,7 +4927,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stefano Rodotá.md": {
+    "Stefano Rodotá.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4927,7 +4954,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stato di Natura.md": {
+    "Stato di Natura.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4954,7 +4981,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/State.md": {
+    "State.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4981,7 +5008,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Stanislaw Jerzy Lec.md": {
+    "Stanislaw Jerzy Lec.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5008,7 +5035,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Speech and Language Processing.md": {
+    "Speech and Language Processing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5035,7 +5062,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Spazi degli indirizzi.md": {
+    "Spazi degli indirizzi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5062,7 +5089,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Space Launch System.md": {
+    "Space Launch System.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5089,7 +5116,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sonke Ahrens.md": {
+    "Sonke Ahrens.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5116,7 +5143,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Some notes on solving hard problems.md": {
+    "Some notes on solving hard problems.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5143,7 +5170,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Software Vulnerabilities- Exploitation and Mitigation.md": {
+    "Software Vulnerabilities- Exploitation and Mitigation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5170,7 +5197,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Social Media.md": {
+    "Social Media.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5197,7 +5224,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Social Justice Warriors.md": {
+    "Social Justice Warriors.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5224,7 +5251,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Slate Star Codex.md": {
+    "Slate Star Codex.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5251,7 +5278,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Skepticism.md": {
+    "Skepticism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5278,7 +5305,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sistemi Operativi.md": {
+    "Sistemi Operativi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5305,7 +5332,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sistemi Intelligenti.md": {
+    "Sistemi Intelligenti.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5332,7 +5359,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Singleton.md": {
+    "Singleton.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5359,7 +5386,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sincretismo.md": {
+    "Sincretismo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5386,7 +5413,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Simulazione di Algoritmi Quantistici usando lo strumento Q#.md": {
+    "Simulazione di Algoritmi Quantistici usando lo strumento Q#.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5413,7 +5440,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Simulation.md": {
+    "Simulation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5440,7 +5467,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Simon Thompson.md": {
+    "Simon Thompson.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5467,7 +5494,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sicurezza Reti e Calcolatori.md": {
+    "Sicurezza Reti e Calcolatori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5494,7 +5521,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shut up and calculate.md": {
+    "Shut up and calculate.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5521,7 +5548,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shoshana Zuboff.md": {
+    "Shoshana Zuboff.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5548,7 +5575,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shortcuts in Ranger.md": {
+    "Shortcuts in Ranger.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5575,7 +5602,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shimon Ullman.md": {
+    "Shimon Ullman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5602,7 +5629,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shifter.md": {
+    "Shifter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5629,7 +5656,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shenzhou.md": {
+    "Shenzhou.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5656,7 +5683,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Shawn Wang.md": {
+    "Shawn Wang.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5683,7 +5710,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sharing Video and Audio between Machines.md": {
+    "Sharing Video and Audio between Machines.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5710,7 +5737,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Serpent.md": {
+    "Serpent.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5737,7 +5764,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Separation of content and presentation.md": {
+    "Separation of content and presentation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5764,7 +5791,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Separation Logic.md": {
+    "Separation Logic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5791,7 +5818,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Senescenza.md": {
+    "Senescenza.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5818,7 +5845,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Semiotics.md": {
+    "Semiotics.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5845,7 +5872,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Semantic Web.md": {
+    "Semantic Web.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5872,7 +5899,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Seletive Amnesia.md": {
+    "Seletive Amnesia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5899,7 +5926,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Security.md": {
+    "Security.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5926,7 +5953,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Secure Hash Algorithm.md": {
+    "Secure Hash Algorithm.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5953,7 +5980,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Screenshot to clipboard.md": {
+    "Screenshot to clipboard.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -5980,7 +6007,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Scraping.md": {
+    "Scraping.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6007,7 +6034,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Scott Alexander.md": {
+    "Scott Alexander.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6034,7 +6061,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Scienziati che sbagliano.md": {
+    "Scienziati che sbagliano.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6061,7 +6088,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Scientific American.md": {
+    "Scientific American.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6088,7 +6115,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Schiavitù.md": {
+    "Schiavitù.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6115,7 +6142,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Scacchi.md": {
+    "Scacchi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6142,7 +6169,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Satira.md": {
+    "Satira.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6169,7 +6196,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sartiame.md": {
+    "Sartiame.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6196,7 +6223,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sardegna2021.md": {
+    "Sardegna2021.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6223,7 +6250,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sapiens- A brief History of Humankind.md": {
+    "Sapiens- A brief History of Humankind.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6250,7 +6277,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Sacha Chua.md": {
+    "Sacha Chua.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6277,7 +6304,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SQL.md": {
+    "SQL.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6304,7 +6331,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SPARQL.md": {
+    "SPARQL.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6331,7 +6358,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SOAP.md": {
+    "SOAP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6358,7 +6385,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SOA.md": {
+    "SOA.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6385,7 +6412,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SO.md": {
+    "SO.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6412,7 +6439,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/SNePS.md": {
+    "SNePS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6439,7 +6466,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Rust.md": {
+    "Rust.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6466,7 +6493,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ruby.md": {
+    "Ruby.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6493,7 +6520,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ron Chrisly.md": {
+    "Ron Chrisly.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6520,7 +6547,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Robin Sloan.md": {
+    "Robin Sloan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6547,7 +6574,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Roamkasten - a practical how to guide to optimize Zettelkasten in Roam Research.md": {
+    "Roamkasten - a practical how to guide to optimize Zettelkasten in Roam Research.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6574,7 +6601,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ricing up Org Mode.md": {
+    "Ricing up Org Mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6601,7 +6628,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Richard Feynman.md": {
+    "Richard Feynman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6628,7 +6655,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ricerca Operativa.md": {
+    "Ricerca Operativa.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6655,7 +6682,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Riccardo Vessa.md": {
+    "Riccardo Vessa.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6682,7 +6709,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Return of the Obra Dinn.md": {
+    "Return of the Obra Dinn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6709,7 +6736,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Retire In Progress.md": {
+    "Retire In Progress.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6736,7 +6763,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Reti Neurali & Deep Learning.md": {
+    "Reti Neurali & Deep Learning.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6763,7 +6790,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Reti I.md": {
+    "Reti I.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6790,7 +6817,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Research.md": {
+    "Research.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6817,7 +6844,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Regression.md": {
+    "Regression.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6844,7 +6871,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Regression or Classification- Linear or Logistic-.md": {
+    "Regression or Classification- Linear or Logistic-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6871,7 +6898,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Red Pill.md": {
+    "Red Pill.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6898,7 +6925,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Recurrent Neural Network.md": {
+    "Recurrent Neural Network.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6925,7 +6952,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Rationality.md": {
+    "Rationality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6952,7 +6979,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Radical acceptance.md": {
+    "Radical acceptance.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -6979,7 +7006,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Radial Basis Function Network.md": {
+    "Radial Basis Function Network.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7006,7 +7033,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/RSA.md": {
+    "RSA.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7033,7 +7060,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/REST.md": {
+    "REST.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7060,7 +7087,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/RDFS.md": {
+    "RDFS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7087,7 +7114,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/RDF.md": {
+    "RDF.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7114,7 +7141,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/RAM.md": {
+    "RAM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7141,7 +7168,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/R.R. Wilson testimony on FermiLab.md": {
+    "R.R. Wilson testimony on FermiLab.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7168,7 +7195,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quotebacks.md": {
+    "Quotebacks.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7195,7 +7222,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Neural Network.md": {
+    "Quantum Neural Network.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7222,7 +7249,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Mechanics.md": {
+    "Quantum Mechanics.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7249,7 +7276,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Learning.md": {
+    "Quantum Learning.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7276,7 +7303,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Key Distribution.md": {
+    "Quantum Key Distribution.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7303,7 +7330,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Device Simulator.md": {
+    "Quantum Device Simulator.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7330,7 +7357,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quantum Computing.md": {
+    "Quantum Computing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7357,7 +7384,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Quality of Service in Computer Networks.md": {
+    "Quality of Service in Computer Networks.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7384,7 +7411,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/QuBit.md": {
+    "QuBit.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7411,7 +7438,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/QMK.md": {
+    "QMK.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7438,7 +7465,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/QMK Italian accents.md": {
+    "QMK Italian accents.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7465,61 +7492,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/QEC/Can free speech be controlled by industry.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761192579174,
-      "modifiedDate": 1761192579174,
-      "sizeInBytes": 587,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Zettelkasten/QEC/Can a monopoly be beneficial in improving a service.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761192579174,
-      "modifiedDate": 1761192579174,
-      "sizeInBytes": 462,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Zettelkasten/Q-E-C note taking.md": {
+    "Q-E-C note taking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7546,7 +7519,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Q#.md": {
+    "Q#.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7573,7 +7546,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Q System One.md": {
+    "Q System One.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7600,7 +7573,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Python.md": {
+    "Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7627,7 +7600,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Public Opinion.md": {
+    "Public Opinion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7654,7 +7627,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Proxy.md": {
+    "Proxy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7681,7 +7654,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Provenance.md": {
+    "Provenance.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7708,7 +7681,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Prototype Pattern.md": {
+    "Prototype Pattern.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7735,7 +7708,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Propositions as Types.md": {
+    "Propositions as Types.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7762,7 +7735,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Project Xanadu.md": {
+    "Project Xanadu.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7789,7 +7762,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Progressive Enhancement.md": {
+    "Progressive Enhancement.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7816,7 +7789,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Programming in Haskell.md": {
+    "Programming in Haskell.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7843,7 +7816,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Programming Language Foundation in Agda.md": {
+    "Programming Language Foundation in Agda.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7870,7 +7843,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Programmazione III.md": {
+    "Programmazione III.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7897,7 +7870,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Programmazione II.md": {
+    "Programmazione II.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7924,7 +7897,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Programmazione Dinamica.md": {
+    "Programmazione Dinamica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7951,7 +7924,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Progetto.md": {
+    "Progetto.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -7978,7 +7951,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Productivity.md": {
+    "Productivity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8005,7 +7978,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Problems & Algorithms.md": {
+    "Problems & Algorithms.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8032,7 +8005,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Privacy.md": {
+    "Privacy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8059,7 +8032,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Prezzolato.md": {
+    "Prezzolato.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8086,7 +8059,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Pragmatism.md": {
+    "Pragmatism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8113,7 +8086,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Pragmaticism.md": {
+    "Pragmaticism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8140,7 +8113,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Practical Nix Flakes.md": {
+    "Practical Nix Flakes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8167,7 +8140,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Power Menu w- rofi.md": {
+    "Power Menu w- rofi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8194,7 +8167,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Polar.md": {
+    "Polar.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8221,7 +8194,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Podcasts&Conferenze.md": {
+    "Podcasts&Conferenze.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8248,7 +8221,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Plutarco.md": {
+    "Plutarco.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8275,7 +8248,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Playing the Zettelkasten RPG.md": {
+    "Playing the Zettelkasten RPG.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8302,7 +8275,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Planetes.md": {
+    "Planetes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8329,7 +8302,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/PhotOntology.md": {
+    "PhotOntology.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8356,7 +8329,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/PhotOntology Project.md": {
+    "PhotOntology Project.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8383,7 +8356,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Philosophy.md": {
+    "Philosophy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8410,7 +8383,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Philip Wadler.md": {
+    "Philip Wadler.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8437,7 +8410,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Peter J. Denning.md": {
+    "Peter J. Denning.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8464,7 +8437,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Peter Baumgartner.md": {
+    "Peter Baumgartner.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8491,7 +8464,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Personal-sensitive data should by treated internally if possible.md": {
+    "Personal-sensitive data should by treated internally if possible.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8518,7 +8491,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Performance Analysis - Simulations and Models.md": {
+    "Performance Analysis - Simulations and Models.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8545,7 +8518,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Percy Bysshe Shelley.md": {
+    "Percy Bysshe Shelley.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8572,7 +8545,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Pay Gap.md": {
+    "Pay Gap.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8599,7 +8572,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Paul Deitel.md": {
+    "Paul Deitel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8626,7 +8599,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Parsing.md": {
+    "Parsing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8653,7 +8626,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Parsing English in 500 Lines of Python.md": {
+    "Parsing English in 500 Lines of Python.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8680,7 +8653,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Parser Top-Down.md": {
+    "Parser Top-Down.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8707,7 +8680,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Parliamo di Large Language Models con Enkk.md": {
+    "Parliamo di Large Language Models con Enkk.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8734,7 +8707,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Paracelsus.md": {
+    "Paracelsus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8761,7 +8734,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Packet Switching.md": {
+    "Packet Switching.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8788,7 +8761,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Packet Delay.md": {
+    "Packet Delay.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8815,7 +8788,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/PKM.md": {
+    "PKM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8842,7 +8815,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ozymandias.md": {
+    "Ozymandias.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8869,7 +8842,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ottimizzazione Combinatoria.md": {
+    "Ottimizzazione Combinatoria.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8896,7 +8869,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Otium.md": {
+    "Otium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8923,7 +8896,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Org as a Word Processor.md": {
+    "Org as a Word Processor.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8950,7 +8923,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Orari.md": {
+    "Orari.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8977,7 +8950,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Opening books w- zathura and rofi.md": {
+    "Opening books w- zathura and rofi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9004,7 +8977,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/OpenAI.md": {
+    "OpenAI.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9031,7 +9004,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Open Twitch Streams w- rofi.md": {
+    "Open Twitch Streams w- rofi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9058,7 +9031,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Open Educational Resources.md": {
+    "Open Educational Resources.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9085,7 +9058,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/One-time Pad.md": {
+    "One-time Pad.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9112,7 +9085,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/On the Dangers of Stochastic Parrots.md": {
+    "On the Dangers of Stochastic Parrots.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9139,7 +9112,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/On quantum neural computing.md": {
+    "On quantum neural computing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9166,7 +9139,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/On Microkernel Construction.md": {
+    "On Microkernel Construction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9193,7 +9166,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/On AI Education.md": {
+    "On AI Education.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9220,7 +9193,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Of Typewriters, Scribe, LaTeX, Org mode, Hugo and Paper.md": {
+    "Of Typewriters, Scribe, LaTeX, Org mode, Hugo and Paper.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9247,7 +9220,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ocelot.md": {
+    "Ocelot.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9274,7 +9247,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Observer.md": {
+    "Observer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9301,7 +9274,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/OWL.md": {
+    "OWL.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9328,7 +9301,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/O-grande.md": {
+    "O-grande.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9355,7 +9328,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Numbering Headings w- CSS.md": {
+    "Numbering Headings w- CSS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9382,7 +9355,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Notes.md": {
+    "Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9409,7 +9382,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Note Taking.md": {
+    "Note Taking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9436,7 +9409,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/NotDeft.md": {
+    "NotDeft.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9463,7 +9436,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Noctua.md": {
+    "Noctua.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9490,7 +9463,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Noah Hutton.md": {
+    "Noah Hutton.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9517,7 +9490,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/NixOS.md": {
+    "NixOS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9544,7 +9517,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nishida Kitaro.md": {
+    "Nishida Kitaro.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9571,7 +9544,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nipkow.md": {
+    "Nipkow.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9598,7 +9571,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Niklas Luhmann.md": {
+    "Niklas Luhmann.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9625,7 +9598,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nightflyers & Other Stories.md": {
+    "Nightflyers & Other Stories.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9652,7 +9625,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Night.md": {
+    "Night.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9679,7 +9652,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nick Bostrom.md": {
+    "Nick Bostrom.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9706,7 +9679,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nicholas P. Rougier.md": {
+    "Nicholas P. Rougier.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9733,7 +9706,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/New Republic.md": {
+    "New Republic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9760,7 +9733,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Never Let Me Go.md": {
+    "Never Let Me Go.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9787,7 +9760,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Neuroscience.md": {
+    "Neuroscience.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9814,7 +9787,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Neural Network.md": {
+    "Neural Network.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9841,7 +9814,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Net and Knives.md": {
+    "Net and Knives.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9868,7 +9841,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Net Neutrality.md": {
+    "Net Neutrality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9895,7 +9868,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Neil Postman.md": {
+    "Neil Postman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9922,7 +9895,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Natural Selection.md": {
+    "Natural Selection.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9949,7 +9922,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nat Eliason.md": {
+    "Nat Eliason.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -9976,7 +9949,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nassim Nicholas Taleb.md": {
+    "Nassim Nicholas Taleb.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10003,7 +9976,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Nabokov.md": {
+    "Nabokov.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10030,7 +10003,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/NLP.md": {
+    "NLP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10057,7 +10030,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Multiplexer.md": {
+    "Multiplexer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10084,7 +10057,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Moon.md": {
+    "Moon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10111,7 +10084,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Monopolies slow innovation to maintain market control.md": {
+    "Monopolies slow innovation to maintain market control.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10138,7 +10111,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Monopolies are a single point of failure.md": {
+    "Monopolies are a single point of failure.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10165,7 +10138,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Modellazione Concettuale per il Web Semantico.md": {
+    "Modellazione Concettuale per il Web Semantico.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10192,7 +10165,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Missioni Artemis.md": {
+    "Missioni Artemis.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10219,7 +10192,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Middle Income Trap.md": {
+    "Middle Income Trap.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10246,7 +10219,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Microkernel Based Systems.md": {
+    "Microkernel Based Systems.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10273,7 +10246,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Microarchitecture.md": {
+    "Microarchitecture.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10300,7 +10273,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Michel Foucault.md": {
+    "Michel Foucault.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10327,7 +10300,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Michael Sipser.md": {
+    "Michael Sipser.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10354,7 +10327,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Michael Polanyi.md": {
+    "Michael Polanyi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10381,7 +10354,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Mic-1.md": {
+    "Mic-1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10408,7 +10381,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Metodi Formali dell'Informatica.md": {
+    "Metodi Formali dell'Informatica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10435,7 +10408,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Metaphors We Live By.md": {
+    "Metaphors We Live By.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10462,7 +10435,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Metal Gear Saga.md": {
+    "Metal Gear Saga.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10489,7 +10462,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Mental Pivot.md": {
+    "Mental Pivot.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10516,7 +10489,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Memoization.md": {
+    "Memoization.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10543,7 +10516,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Memento.md": {
+    "Memento.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10570,7 +10543,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Memento Time Travel.md": {
+    "Memento Time Travel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10597,7 +10570,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Meditations On Moloch.md": {
+    "Meditations On Moloch.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10624,7 +10597,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Mediator.md": {
+    "Mediator.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10651,7 +10624,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Mediaset vs Facebook.md": {
+    "Mediaset vs Facebook.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10678,7 +10651,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Matrix.md": {
+    "Matrix.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10705,7 +10678,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Masamune Shiro.md": {
+    "Masamune Shiro.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10732,7 +10705,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Marvin Minsky.md": {
+    "Marvin Minsky.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10759,7 +10732,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Martin Fowler.md": {
+    "Martin Fowler.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10786,7 +10759,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Marshall McLuhan.md": {
+    "Marshall McLuhan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10813,7 +10786,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Markovian Queueing Network Theory.md": {
+    "Markovian Queueing Network Theory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10840,7 +10813,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Markov Chain.md": {
+    "Markov Chain.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10867,7 +10840,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Marginalia.md": {
+    "Marginalia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10894,7 +10867,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Mandela Effect.md": {
+    "Mandela Effect.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10921,7 +10894,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Male vs Female Gaze.md": {
+    "Male vs Female Gaze.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10948,7 +10921,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Malattia e morte di David Hume.md": {
+    "Malattia e morte di David Hume.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -10975,7 +10948,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Makoto Yukimura.md": {
+    "Makoto Yukimura.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11002,7 +10975,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Make the thing you wish you had found.md": {
+    "Make the thing you wish you had found.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11029,7 +11002,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Magritte.md": {
+    "Magritte.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11056,7 +11029,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Magnetic Tent Legs.md": {
+    "Magnetic Tent Legs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11083,7 +11056,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Magic.md": {
+    "Magic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11110,7 +11083,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Macchine a Rotori.md": {
+    "Macchine a Rotori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11137,7 +11110,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lying Flat.md": {
+    "Lying Flat.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11164,7 +11137,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lucien Tesnière.md": {
+    "Lucien Tesnière.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11191,7 +11164,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Luca Tremolada.md": {
+    "Luca Tremolada.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11218,7 +11191,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Long Short Term Memory.md": {
+    "Long Short Term Memory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11245,7 +11218,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lo Zen e L'Occidente.md": {
+    "Lo Zen e L'Occidente.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11272,7 +11245,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lizard Brain.md": {
+    "Lizard Brain.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11299,7 +11272,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Literate Programming.md": {
+    "Literate Programming.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11326,7 +11299,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linkiesta.md": {
+    "Linkiesta.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11353,7 +11326,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linker.md": {
+    "Linker.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11380,7 +11353,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linked Data.md": {
+    "Linked Data.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11407,7 +11380,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linked Data- Evolving the Web into a Global Data Space.md": {
+    "Linked Data- Evolving the Web into a Global Data Space.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11434,7 +11407,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linguaggi e Paradigmi di Programmazione.md": {
+    "Linguaggi e Paradigmi di Programmazione.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11461,7 +11434,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Linguaggi Formali e Traduttori.md": {
+    "Linguaggi Formali e Traduttori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11488,7 +11461,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lily58.md": {
+    "Lily58.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11515,7 +11488,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Life of Lycurgus.md": {
+    "Life of Lycurgus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11542,7 +11515,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lft Compiler.md": {
+    "Lft Compiler.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11569,7 +11542,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lex Fridman.md": {
+    "Lex Fridman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11596,7 +11569,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Letture Viola.md": {
+    "Letture Viola.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11623,7 +11596,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lethe.md": {
+    "Lethe.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11650,7 +11623,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lesswrong.md": {
+    "Lesswrong.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11677,7 +11650,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Learn Quantum Computing with Python and Q#.md": {
+    "Learn Quantum Computing with Python and Q#.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11704,7 +11677,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Learn In Public.md": {
+    "Learn In Public.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11731,7 +11704,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Lazy Initialization.md": {
+    "Lazy Initialization.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11758,7 +11731,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Layouts.md": {
+    "Layouts.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11785,7 +11758,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Law of Unintended Consequences.md": {
+    "Law of Unintended Consequences.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11812,7 +11785,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Latticework of theory.md": {
+    "Latticework of theory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11839,7 +11812,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Latebra.md": {
+    "Latebra.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11866,7 +11839,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La variante di Luneburg.md": {
+    "La variante di Luneburg.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11893,7 +11866,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La condanna.md": {
+    "La condanna.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11920,7 +11893,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La Satira secondo A. G. Bierce.md": {
+    "La Satira secondo A. G. Bierce.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11947,7 +11920,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La Rivière du hibou.md": {
+    "La Rivière du hibou.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -11974,7 +11947,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La Nausée.md": {
+    "La Nausée.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12001,7 +11974,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/La Firma in Bianco.md": {
+    "La Firma in Bianco.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12028,7 +12001,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/LLM.md": {
+    "LLM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12055,7 +12028,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/LFTCompiler.md": {
+    "LFTCompiler.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12082,7 +12055,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/L'ansia del recupero.md": {
+    "L'ansia del recupero.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12109,7 +12082,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/L'Homme Machine.md": {
+    "L'Homme Machine.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12136,7 +12109,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Kurt Vonnegut.md": {
+    "Kurt Vonnegut.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12163,7 +12136,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Kubla Khan.md": {
+    "Kubla Khan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12190,7 +12163,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Kronos effect.md": {
+    "Kronos effect.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12217,7 +12190,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Knowledge Discovery & Data Mining.md": {
+    "Knowledge Discovery & Data Mining.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12244,7 +12217,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Klara and the Sun.md": {
+    "Klara and the Sun.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12271,7 +12244,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Keycaps Profiles.md": {
+    "Keycaps Profiles.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12298,7 +12271,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Kentucky Route Zero.md": {
+    "Kentucky Route Zero.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12325,7 +12298,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Keith Ross.md": {
+    "Keith Ross.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12352,7 +12325,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Karl Polanyi.md": {
+    "Karl Polanyi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12379,7 +12352,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Karl Marx.md": {
+    "Karl Marx.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12406,7 +12379,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Julio Cortázar.md": {
+    "Julio Cortázar.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12433,7 +12406,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Journaling with org-mode.md": {
+    "Journaling with org-mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12460,7 +12433,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Joseph Schumpeter.md": {
+    "Joseph Schumpeter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12487,7 +12460,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jorge Luis Borges.md": {
+    "Jorge Luis Borges.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12514,7 +12487,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jordan Peterson.md": {
+    "Jordan Peterson.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12541,7 +12514,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jonathan Levi.md": {
+    "Jonathan Levi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12568,7 +12541,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/John R. Searle.md": {
+    "John R. Searle.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12595,7 +12568,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/John McCarthy.md": {
+    "John McCarthy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12622,7 +12595,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/John K. Galbraith.md": {
+    "John K. Galbraith.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12649,7 +12622,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/John Hopfield.md": {
+    "John Hopfield.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12676,7 +12649,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/John Hopcroft.md": {
+    "John Hopcroft.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12703,7 +12676,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jochen Liedtke.md": {
+    "Jochen Liedtke.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12730,7 +12703,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jethro Kuan.md": {
+    "Jethro Kuan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12757,7 +12730,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jeffrey Ullman.md": {
+    "Jeffrey Ullman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12784,7 +12757,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jeffrey P. Buzen.md": {
+    "Jeffrey P. Buzen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12811,7 +12784,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jean-Paul Sartre.md": {
+    "Jean-Paul Sartre.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12838,7 +12811,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jean-Jaques Lévy.md": {
+    "Jean-Jaques Lévy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12865,7 +12838,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Java- How to Program, Late Objects.md": {
+    "Java- How to Program, Late Objects.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12892,7 +12865,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jaques Lacan.md": {
+    "Jaques Lacan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12919,7 +12892,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/James Kurose.md": {
+    "James Kurose.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12946,7 +12919,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jailbreaking ChatGPT on Release Day.md": {
+    "Jailbreaking ChatGPT on Release Day.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -12973,7 +12946,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Jacques Derrida.md": {
+    "Jacques Derrida.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13000,7 +12973,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/JVM.md": {
+    "JVM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13027,7 +13000,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/J.Weizenbaum.md": {
+    "J.Weizenbaum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13054,7 +13027,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/J.L.Austin.md": {
+    "J.L.Austin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13081,7 +13054,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/J.L. Austin.md": {
+    "J.L. Austin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13108,7 +13081,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ivan Pavlov.md": {
+    "Ivan Pavlov.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13135,7 +13108,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Iterator.md": {
+    "Iterator.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13162,7 +13135,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Italian Projective Dependency Parser.md": {
+    "Italian Projective Dependency Parser.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13189,7 +13162,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Introduction to the theory of Computation.md": {
+    "Introduction to the theory of Computation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13216,7 +13189,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Introduction to the Theory of Programming Languages.md": {
+    "Introduction to the Theory of Programming Languages.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13243,7 +13216,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Introduction to Automata Theory, Languages, and Computation.md": {
+    "Introduction to Automata Theory, Languages, and Computation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13270,7 +13243,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Interpreter.md": {
+    "Interpreter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13297,7 +13270,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Interoperability.md": {
+    "Interoperability.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13324,7 +13297,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Internet Impact.md": {
+    "Internet Impact.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13351,7 +13324,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Instapaper.md": {
+    "Instapaper.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13378,7 +13351,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Inline org-roam links completion.md": {
+    "Inline org-roam links completion.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13405,7 +13378,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Infowars.md": {
+    "Infowars.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13432,7 +13405,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Information industry monopolies have far reaching effects in culture and politic.md": {
+    "Information industry monopolies have far reaching effects in culture and politic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13459,7 +13432,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Information industries shape our cultural and political landscape.md": {
+    "Information industries shape our cultural and political landscape.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13486,7 +13459,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Information Theory.md": {
+    "Information Theory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13513,7 +13486,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Indecision Paralysis.md": {
+    "Indecision Paralysis.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13540,7 +13513,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Incel.md": {
+    "Incel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13567,7 +13540,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/In The Hall of the Mountain King.md": {
+    "In The Hall of the Mountain King.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13594,7 +13567,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Import Notes from Instapaper.md": {
+    "Import Notes from Instapaper.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13621,7 +13594,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Imitation Game.md": {
+    "Imitation Game.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13648,7 +13621,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Il professore onnisciente + AI sregolata.md": {
+    "Il professore onnisciente + AI sregolata.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13675,7 +13648,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Il fascismo eterno.md": {
+    "Il fascismo eterno.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13702,7 +13675,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Il Tascabile.md": {
+    "Il Tascabile.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13729,7 +13702,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Il Pendolo di Foucault.md": {
+    "Il Pendolo di Foucault.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13756,7 +13729,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ISS.md": {
+    "ISS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13783,7 +13756,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ISA.md": {
+    "ISA.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13810,7 +13783,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/IRI.md": {
+    "IRI.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13837,7 +13810,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/IJVM.md": {
+    "IJVM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13864,7 +13837,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/IFU.md": {
+    "IFU.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13891,7 +13864,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/IALAB.md": {
+    "IALAB.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13918,7 +13891,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/IA-32.md": {
+    "IA-32.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13945,7 +13918,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hypothes.is.md": {
+    "Hypothes.is.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13972,7 +13945,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hypertext.md": {
+    "Hypertext.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -13999,7 +13972,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hypertext Writing.md": {
+    "Hypertext Writing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14026,7 +13999,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hyperlink.md": {
+    "Hyperlink.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14053,7 +14026,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hunter x Hunter.md": {
+    "Hunter x Hunter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14080,7 +14053,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Human-Level Intelligence or Animal-Like Abilities-.md": {
+    "Human-Level Intelligence or Animal-Like Abilities-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14107,7 +14080,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Human Brain Project.md": {
+    "Human Brain Project.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14134,7 +14107,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hugo.md": {
+    "Hugo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14161,7 +14134,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Howard Phillips Lovecraft.md": {
+    "Howard Phillips Lovecraft.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14188,7 +14161,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to take smart notes with org-mode.md": {
+    "How to take smart notes with org-mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14215,7 +14188,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to switch, customize, or write themes.md": {
+    "How to switch, customize, or write themes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14242,7 +14215,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to Use Roam to Outline a New Article is Under 20 Minutes.md": {
+    "How to Use Roam to Outline a New Article is Under 20 Minutes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14269,7 +14242,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to Take Smart Notes.md": {
+    "How to Take Smart Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14296,7 +14269,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to Read a Book.md": {
+    "How to Read a Book.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14323,7 +14296,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to Do Things with Words.md": {
+    "How to Do Things with Words.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14350,7 +14323,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/How to Annotate Literally Everything.md": {
+    "How to Annotate Literally Everything.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14377,7 +14350,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hopfield Networks.md": {
+    "Hopfield Networks.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14404,7 +14377,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Homo unius libri.md": {
+    "Homo unius libri.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14431,7 +14404,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Homo Deus.md": {
+    "Homo Deus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14458,7 +14431,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Historical data cannot model a change of paradigm yet to happen.md": {
+    "Historical data cannot model a change of paradigm yet to happen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14485,7 +14458,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hirarchical Visitor.md": {
+    "Hirarchical Visitor.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14512,7 +14485,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hipsters on Food Stamps, Part 1.md": {
+    "Hipsters on Food Stamps, Part 1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14539,7 +14512,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Herbert Spencer.md": {
+    "Herbert Spencer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14566,7 +14539,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Henry Scott-Holland.md": {
+    "Henry Scott-Holland.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14593,7 +14566,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Henry Markram.md": {
+    "Henry Markram.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14620,7 +14593,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Haskell- the Craft of Functional Programming.md": {
+    "Haskell- the Craft of Functional Programming.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14647,7 +14620,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Harvey Deitel.md": {
+    "Harvey Deitel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14674,7 +14647,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Happiness.md": {
+    "Happiness.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14701,7 +14674,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hanya Yanagihara.md": {
+    "Hanya Yanagihara.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14728,7 +14701,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Hannah Arendt.md": {
+    "Hannah Arendt.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14755,7 +14728,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Guido Boella.md": {
+    "Guido Boella.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14782,7 +14755,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Grieg.md": {
+    "Grieg.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14809,7 +14782,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Graham Hutton.md": {
+    "Graham Hutton.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14836,7 +14809,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Grafi.md": {
+    "Grafi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14863,7 +14836,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Governing the Commons.md": {
+    "Governing the Commons.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14890,7 +14863,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/GoF.md": {
+    "GoF.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14917,7 +14890,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Go.md": {
+    "Go.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14944,7 +14917,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/GitWatch.md": {
+    "GitWatch.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14971,7 +14944,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gilles Dowek.md": {
+    "Gilles Dowek.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -14998,7 +14971,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Giants.md": {
+    "Giants.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15025,7 +14998,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/George R.R. Martin.md": {
+    "George R.R. Martin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15052,7 +15025,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/George Lakoff.md": {
+    "George Lakoff.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15079,7 +15052,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/George Box.md": {
+    "George Box.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15106,7 +15079,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Georg Cantor.md": {
+    "Georg Cantor.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15133,7 +15106,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Generic Merge-Binary Insertion Sort.md": {
+    "Generic Merge-Binary Insertion Sort.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15160,7 +15133,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Generate IDs for headings in JS.md": {
+    "Generate IDs for headings in JS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15187,7 +15160,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gene Wolfe.md": {
+    "Gene Wolfe.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15214,7 +15187,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gender.md": {
+    "Gender.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15241,7 +15214,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gemini.md": {
+    "Gemini.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15268,7 +15241,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gary Wolf.md": {
+    "Gary Wolf.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15295,7 +15268,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Garrett Hardin.md": {
+    "Garrett Hardin.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15322,7 +15295,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Garbage In, Garbage Out.md": {
+    "Garbage In, Garbage Out.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15349,7 +15322,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Gabriel Weinberg.md": {
+    "Gabriel Weinberg.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15376,7 +15349,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/GRASP.md": {
+    "GRASP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15403,7 +15376,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/GDPR.md": {
+    "GDPR.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15430,7 +15403,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/G.C.Chesterton.md": {
+    "G.C.Chesterton.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15457,7 +15430,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/From Python to Numpy.md": {
+    "From Python to Numpy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15484,7 +15457,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Free speech is the US is controlled by industry more so than the government.md": {
+    "Free speech is the US is controlled by industry more so than the government.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15511,7 +15484,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Forme Mentali.md": {
+    "Forme Mentali.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15538,7 +15511,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Footnotes on hover -w Javascript.md": {
+    "Footnotes on hover -w Javascript.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15565,7 +15538,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fonts.md": {
+    "Fonts.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15592,7 +15565,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Flyweight.md": {
+    "Flyweight.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15619,7 +15592,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Flattening Hierarchical Scheduling.md": {
+    "Flattening Hierarchical Scheduling.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15646,7 +15619,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fixing the mark commands.md": {
+    "Fixing the mark commands.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15673,7 +15646,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Five Suggestions For Rationality Research and Development.md": {
+    "Five Suggestions For Rationality Research and Development.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15700,7 +15673,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fisica.md": {
+    "Fisica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15727,7 +15700,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fisica per Applicazioni di Realtà Virtuale.md": {
+    "Fisica per Applicazioni di Realtà Virtuale.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15754,7 +15727,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fiona Broome.md": {
+    "Fiona Broome.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15781,7 +15754,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Finding what pkg owns file.md": {
+    "Finding what pkg owns file.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15808,7 +15781,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Financial Investing.md": {
+    "Financial Investing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15835,7 +15808,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fermata.md": {
+    "Fermata.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15862,7 +15835,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Feistel Cipher.md": {
+    "Feistel Cipher.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15889,7 +15862,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fedor Dostoevskij.md": {
+    "Fedor Dostoevskij.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15916,7 +15889,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Farnam Street.md": {
+    "Farnam Street.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15943,7 +15916,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fan.md": {
+    "Fan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15970,7 +15943,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Fahrenheit.md": {
+    "Fahrenheit.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -15997,7 +15970,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Factory Method.md": {
+    "Factory Method.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16024,7 +15997,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Facade.md": {
+    "Facade.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16051,7 +16024,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Evolutionary Psychology.md": {
+    "Evolutionary Psychology.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16078,7 +16051,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Event Listener.md": {
+    "Event Listener.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16105,7 +16078,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Eugenetics.md": {
+    "Eugenetics.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16132,7 +16105,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Etica, Società e Privacy.md": {
+    "Etica, Società e Privacy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16159,7 +16132,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Etica e Filosofia nell'Intelligenza Artificiale- definire i limiti dello sviluppo.md": {
+    "Etica e Filosofia nell'Intelligenza Artificiale- definire i limiti dello sviluppo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16186,7 +16159,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ethics.md": {
+    "Ethics.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16213,7 +16186,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Equality.md": {
+    "Equality.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16240,7 +16213,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/EntropyForLife.md": {
+    "EntropyForLife.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16267,7 +16240,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Entropy.md": {
+    "Entropy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16294,7 +16267,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Entertainment.md": {
+    "Entertainment.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16321,7 +16294,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Emptyness.md": {
+    "Emptyness.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16348,7 +16321,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Empiricism.md": {
+    "Empiricism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16375,7 +16348,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Emotional Intelligence.md": {
+    "Emotional Intelligence.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16402,7 +16375,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Emacs.md": {
+    "Emacs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16429,7 +16402,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Elon Musk.md": {
+    "Elon Musk.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16456,7 +16429,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Elinor Ostrom.md": {
+    "Elinor Ostrom.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16483,7 +16456,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Elementi di Probabilitá e Statistica.md": {
+    "Elementi di Probabilitá e Statistica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16510,7 +16483,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Elder Ring.md": {
+    "Elder Ring.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16537,7 +16510,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Effective Editing.md": {
+    "Effective Editing.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16564,7 +16537,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Effective Altruism.md": {
+    "Effective Altruism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16591,7 +16564,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Edmund Husserl.md": {
+    "Edmund Husserl.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16618,7 +16591,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Economia.md": {
+    "Economia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16645,7 +16618,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Economia e Diritto.md": {
+    "Economia e Diritto.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16672,7 +16645,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ELIZA.md": {
+    "ELIZA.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16699,7 +16672,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ELIVA.md": {
+    "ELIVA.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16726,7 +16699,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Dynamic Edit Distance.md": {
+    "Dynamic Edit Distance.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16753,7 +16726,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/DuckDuckGo’s Quest to Prove Online Privacy Is Possible.md": {
+    "DuckDuckGo’s Quest to Prove Online Privacy Is Possible.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16780,7 +16753,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Double-check Locking.md": {
+    "Double-check Locking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16807,7 +16780,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Doom Icons in Daemon.md": {
+    "Doom Icons in Daemon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16834,7 +16807,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Donald Knuth.md": {
+    "Donald Knuth.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16861,7 +16834,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Doki Doki Literature Club.md": {
+    "Doki Doki Literature Club.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16888,7 +16861,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Docuverse.md": {
+    "Docuverse.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16915,7 +16888,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Do users understand what happens to their data-.md": {
+    "Do users understand what happens to their data-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16942,7 +16915,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Do WMD have a political bias-.md": {
+    "Do WMD have a political bias-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16969,7 +16942,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Do WMD create and reinforce disparity-.md": {
+    "Do WMD create and reinforce disparity-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -16996,7 +16969,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Divina Commedia.md": {
+    "Divina Commedia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17023,7 +16996,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Discord.md": {
+    "Discord.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17050,7 +17023,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Discipline and Punish- The Birth of the Prison.md": {
+    "Discipline and Punish- The Birth of the Prison.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17077,7 +17050,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Digital Envelope.md": {
+    "Digital Envelope.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17104,7 +17077,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Diffusione e Confusione.md": {
+    "Diffusione e Confusione.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17131,7 +17104,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Diffie-Hellman Key Exchange.md": {
+    "Diffie-Hellman Key Exchange.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17158,7 +17131,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Devil Came Through Here.md": {
+    "Devil Came Through Here.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17185,7 +17158,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Deutsch-Jozsa Algorithm.md": {
+    "Deutsch-Jozsa Algorithm.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17212,7 +17185,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Detroit- Become Human.md": {
+    "Detroit- Become Human.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17239,7 +17212,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Deep Neural Networks w- RBMs.md": {
+    "Deep Neural Networks w- RBMs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17266,7 +17239,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Deep Belief Networks.md": {
+    "Deep Belief Networks.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17293,7 +17266,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Decorator.md": {
+    "Decorator.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17320,7 +17293,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Deconstruction.md": {
+    "Deconstruction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17347,7 +17320,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Decoder.md": {
+    "Decoder.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17374,7 +17347,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Death.md": {
+    "Death.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17401,7 +17374,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Death is Nothing at All.md": {
+    "Death is Nothing at All.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17428,7 +17401,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/De la Division du Travail Social.md": {
+    "De la Division du Travail Social.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17455,7 +17428,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/David Hume.md": {
+    "David Hume.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17482,7 +17455,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/David Cage.md": {
+    "David Cage.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17509,7 +17482,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/David Buss.md": {
+    "David Buss.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17536,7 +17509,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Dataification.md": {
+    "Dataification.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17563,7 +17536,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data treatment often outsourced to third-world countries.md": {
+    "Data treatment often outsourced to third-world countries.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17590,7 +17563,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data that is shared to third-parties is not easibly controllable.md": {
+    "Data that is shared to third-parties is not easibly controllable.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17617,7 +17590,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data Structures.md": {
+    "Data Structures.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17644,7 +17617,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data Protection.md": {
+    "Data Protection.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17671,7 +17644,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data Mining.md": {
+    "Data Mining.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17698,7 +17671,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data Encryption Standard.md": {
+    "Data Encryption Standard.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17725,7 +17698,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Data Analysis.md": {
+    "Data Analysis.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17752,7 +17725,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Daniel Goleman.md": {
+    "Daniel Goleman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17779,7 +17752,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Dalla Robotopia al Cyberpunk.md": {
+    "Dalla Robotopia al Cyberpunk.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17806,7 +17779,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/D.S. Chapman.md": {
+    "D.S. Chapman.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17833,7 +17806,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/D.H.Lawrence.md": {
+    "D.H.Lawrence.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17860,7 +17833,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cybersecurity.md": {
+    "Cybersecurity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17887,7 +17860,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Crittanalisi Statistica.md": {
+    "Crittanalisi Statistica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17914,7 +17887,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Creativity.md": {
+    "Creativity.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17941,7 +17914,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Creative Destruction.md": {
+    "Creative Destruction.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17968,7 +17941,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cosa é e come funziona il computer quantistico-.md": {
+    "Cosa é e come funziona il computer quantistico-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -17995,7 +17968,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Corrispondenza di Post.md": {
+    "Corrispondenza di Post.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18022,7 +17995,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Correctness.md": {
+    "Correctness.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18049,7 +18022,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Convolutional Neural Network.md": {
+    "Convolutional Neural Network.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18076,7 +18049,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Consumer Culture.md": {
+    "Consumer Culture.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18103,7 +18076,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Conor White-Sullivan.md": {
+    "Conor White-Sullivan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18130,7 +18103,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Configurazione di una TM.md": {
+    "Configurazione di una TM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18157,7 +18130,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Conceptually.md": {
+    "Conceptually.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18184,7 +18157,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Computer Vision.md": {
+    "Computer Vision.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18211,7 +18184,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Computer Netwoking - A Top-Down Approach.md": {
+    "Computer Netwoking - A Top-Down Approach.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18238,7 +18211,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Computational Neuroscience.md": {
+    "Computational Neuroscience.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18265,7 +18238,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Composite.md": {
+    "Composite.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18292,7 +18265,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Complessitá di un algoritmo.md": {
+    "Complessitá di un algoritmo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18319,7 +18292,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Compilers- Principles Techniques and Tools.md": {
+    "Compilers- Principles Techniques and Tools.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18346,7 +18319,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Compilazione e Linking.md": {
+    "Compilazione e Linking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18373,7 +18346,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Comparatori.md": {
+    "Comparatori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18400,7 +18373,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Common Carrier.md": {
+    "Common Carrier.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18427,7 +18400,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Command.md": {
+    "Command.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18454,7 +18427,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Come si fa una Tesi di Laurea.md": {
+    "Come si fa una Tesi di Laurea.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18481,7 +18454,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Coleridge.md": {
+    "Coleridge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18508,7 +18481,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Colah's Blog.md": {
+    "Colah's Blog.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18535,7 +18508,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cognitive Science.md": {
+    "Cognitive Science.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18562,7 +18535,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Coffeezilla.md": {
+    "Coffeezilla.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18589,7 +18562,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Claude Shannon.md": {
+    "Claude Shannon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18616,7 +18589,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Classification.md": {
+    "Classification.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18643,7 +18616,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Circuiti Sequenziali.md": {
+    "Circuiti Sequenziali.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18670,7 +18643,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Circuiti Combinatori.md": {
+    "Circuiti Combinatori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18697,7 +18670,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cifrario di Vernam.md": {
+    "Cifrario di Vernam.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18724,7 +18697,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Chomsky.md": {
+    "Chomsky.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18751,7 +18724,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/China launches 3 astronauts to new space station.md": {
+    "China launches 3 astronauts to new space station.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18778,7 +18751,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cherry Picking.md": {
+    "Cherry Picking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18805,7 +18778,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ChatGPT.md": {
+    "ChatGPT.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18832,7 +18805,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ChatBot.md": {
+    "ChatBot.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18859,7 +18832,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Charlie Munger.md": {
+    "Charlie Munger.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18886,7 +18859,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Chain of Responsibility.md": {
+    "Chain of Responsibility.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18913,7 +18886,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Centralized control of vast systems cannot succeed without complete information.md": {
+    "Centralized control of vast systems cannot succeed without complete information.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18940,7 +18913,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cathy O'Neil.md": {
+    "Cathy O'Neil.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18967,7 +18940,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Capturing Notes Efficiently with Org Roam.md": {
+    "Capturing Notes Efficiently with Org Roam.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -18994,7 +18967,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Capitalists can be manipulated by threatening their bottom line.md": {
+    "Capitalists can be manipulated by threatening their bottom line.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19021,7 +18994,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Capitalism.md": {
+    "Capitalism.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19048,7 +19021,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cammini Minimi.md": {
+    "Cammini Minimi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19075,7 +19048,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Cambridge Analytica.md": {
+    "Cambridge Analytica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19102,7 +19075,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Calcolabilità e Complessità.md": {
+    "Calcolabilità e Complessità.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19129,7 +19102,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Caches to Caches.md": {
+    "Caches to Caches.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19156,7 +19129,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Caccia.md": {
+    "Caccia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19183,7 +19156,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/CSS Post Tags.md": {
+    "CSS Post Tags.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19210,7 +19183,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/CPU to performance in Linux.md": {
+    "CPU to performance in Linux.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19237,7 +19210,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/C.md": {
+    "C.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19264,7 +19237,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/C++.md": {
+    "C++.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19291,7 +19264,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/C Sharp.md": {
+    "C Sharp.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19318,7 +19291,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Building a Second Brain.md": {
+    "Building a Second Brain.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19345,7 +19318,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Building A Virtual Machine inside ChatGPT.md": {
+    "Building A Virtual Machine inside ChatGPT.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19372,7 +19345,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Builder.md": {
+    "Builder.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19399,7 +19372,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Budgetting.md": {
+    "Budgetting.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19426,7 +19399,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Bridge.md": {
+    "Bridge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19453,7 +19426,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Braindump.md": {
+    "Braindump.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19480,7 +19453,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Bottom-up.md": {
+    "Bottom-up.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19507,7 +19480,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Book Review- Seeing Like a State.md": {
+    "Book Review- Seeing Like a State.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19534,7 +19507,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Boltzmann Machine.md": {
+    "Boltzmann Machine.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19561,7 +19534,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Blue Brain Project.md": {
+    "Blue Brain Project.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19588,7 +19561,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Binding Dinamico.md": {
+    "Binding Dinamico.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19615,7 +19588,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Bike Sharing Dataset.md": {
+    "Bike Sharing Dataset.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19642,7 +19615,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Big Data.md": {
+    "Big Data.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19669,7 +19642,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Big Boss.md": {
+    "Big Boss.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19696,7 +19669,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Biased predictions reinforce the bias in the data.md": {
+    "Biased predictions reinforce the bias in the data.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19723,7 +19696,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Beware The Man Of One Study.md": {
+    "Beware The Man Of One Study.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19750,7 +19723,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Better Font Rendering in Linux.md": {
+    "Better Font Rendering in Linux.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19777,7 +19750,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Beautifying Org Mode in Emacs.md": {
+    "Beautifying Org Mode in Emacs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19804,7 +19777,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Beat Generation.md": {
+    "Beat Generation.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19831,7 +19804,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Basi di Dati.md": {
+    "Basi di Dati.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19858,7 +19831,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Bart Jacobs.md": {
+    "Bart Jacobs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19885,7 +19858,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/BD Vaccini.md": {
+    "BD Vaccini.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19912,7 +19885,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Avatar- The Way of Water.md": {
+    "Avatar- The Way of Water.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19939,7 +19912,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Automatic Table of Content in CSS-JS.md": {
+    "Automatic Table of Content in CSS-JS.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19966,7 +19939,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Automa.md": {
+    "Automa.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -19993,34 +19966,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Attention is all you need.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1761192579172,
-      "modifiedDate": 1761192579172,
-      "sizeInBytes": 200,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Zettelkasten/Attention Deficit Disorder.md": {
+    "Attention Deficit Disorder.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20047,7 +19993,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Atoms of recognition in human and computer vision.md": {
+    "Atoms of recognition in human and computer vision.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20074,7 +20020,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Atomic Notes.md": {
+    "Atomic Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20101,7 +20047,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Atlas of AI.md": {
+    "Atlas of AI.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20128,7 +20074,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Astral Codex Ten.md": {
+    "Astral Codex Ten.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20155,7 +20101,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies.md": {
+    "Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20182,7 +20128,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Aspettando Godot.md": {
+    "Aspettando Godot.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20209,7 +20155,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Artificial Intelligence.md": {
+    "Artificial Intelligence.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20236,7 +20182,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Are WMD a threat to democracy-.md": {
+    "Are WMD a threat to democracy-.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20263,7 +20209,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Architettura Elaboratori.md": {
+    "Architettura Elaboratori.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20290,7 +20236,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Apprendimento Supervisionato.md": {
+    "Apprendimento Supervisionato.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20317,7 +20263,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Apotropaico.md": {
+    "Apotropaico.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20344,7 +20290,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Apocrypha Discordia.md": {
+    "Apocrypha Discordia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20371,7 +20317,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Apocalypse.md": {
+    "Apocalypse.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20398,7 +20344,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Apocalittici e Integrati.md": {
+    "Apocalittici e Integrati.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20425,7 +20371,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Antidogmatismo.md": {
+    "Antidogmatismo.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20452,7 +20398,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Antibiblioteca.md": {
+    "Antibiblioteca.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20479,7 +20425,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Anti-work.md": {
+    "Anti-work.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20506,7 +20452,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Annotated Bibliography with Emacs org-mode.md": {
+    "Annotated Bibliography with Emacs org-mode.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20533,7 +20479,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Andy Weir.md": {
+    "Andy Weir.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20560,7 +20506,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Andrew S. Tanenbaum.md": {
+    "Andrew S. Tanenbaum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20587,7 +20533,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Andrei Tarkovsky.md": {
+    "Andrei Tarkovsky.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20614,7 +20560,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Ancient Greeks didn't kill 'weak' babies.md": {
+    "Ancient Greeks didn't kill 'weak' babies.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20641,7 +20587,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Analisi Semantica.md": {
+    "Analisi Semantica.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20668,7 +20614,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Anaconda.md": {
+    "Anaconda.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20695,7 +20641,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/An Introduction to Prediction Markets.md": {
+    "An Introduction to Prediction Markets.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20722,7 +20668,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Alpaca.md": {
+    "Alpaca.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20749,7 +20695,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Algoritmo di Dijkstra.md": {
+    "Algoritmo di Dijkstra.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20776,7 +20722,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Aeon.md": {
+    "Aeon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20803,7 +20749,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Advanced Encrytion Standard.md": {
+    "Advanced Encrytion Standard.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20830,7 +20776,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Adding double borders to bspwm.md": {
+    "Adding double borders to bspwm.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20857,7 +20803,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Adder.md": {
+    "Adder.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20884,7 +20830,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Adapter.md": {
+    "Adapter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20911,7 +20857,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Adam and Eve.md": {
+    "Adam and Eve.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20938,7 +20884,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Accettazione.md": {
+    "Accettazione.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20965,7 +20911,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/Abstract Factory.md": {
+    "Abstract Factory.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -20992,7 +20938,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ASPIC+.md": {
+    "ASPIC+.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -21019,7 +20965,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/ALU.md": {
+    "ALU.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -21046,7 +20992,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/A robot collecting the data does not mean the treatment will be automatic.md": {
+    "A robot collecting the data does not mean the treatment will be automatic.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -21073,7 +21019,7 @@
         "newlineCount": 0
       }
     },
-    "Zettelkasten/A closed, controlled and optimized information system owned by a monopoly is not desirable.md": {
+    "A closed, controlled and optimized information system owned by a monopoly is not desirable.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -21091,6 +21037,60 @@
       "createdDate": 1761192579169,
       "modifiedDate": 1761192579169,
       "sizeInBytes": 183,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "1. QEC/Can free speech be controlled by industry.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761192579174,
+      "modifiedDate": 1761192579174,
+      "sizeInBytes": 587,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "1. QEC/Can a monopoly be beneficial in improving a service.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1761192579174,
+      "modifiedDate": 1761192579174,
+      "sizeInBytes": 462,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

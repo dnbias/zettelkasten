@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "362e8eb18221f7d9",
+        "id": "3063084f90e50f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b453f34359d272",
+            "id": "52dde46d73a0f3d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,6 +29,7 @@
       {
         "id": "56a4af66a84a2aad",
         "type": "tabs",
+        "dimension": 77.10233029381965,
         "children": [
           {
             "id": "0481b5688984c8f8",
@@ -37,27 +38,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "74a31eecea933b44",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -71,10 +55,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "228a68210388305f",
+        "type": "tabs",
+        "dimension": 22.897669706180345,
+        "children": [
+          {
+            "id": "10c5fcb37820b441",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 273.5
   },
   "right": {
     "id": "015db1942ad49e7a",
@@ -186,8 +187,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "c0605171f0042ac9",
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +226,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b9b453f34359d272",
+  "active": "10c5fcb37820b441",
   "lastOpenFiles": [
+    "Computational Neuroscience.md",
+    "Adapter.md",
+    "A robot collecting the data does not mean the treatment will be automatic.md",
+    "Abstract Factory.md",
+    "Adder.md",
+    "tags/$zettel.md",
+    "Note Taking.md",
+    "Atomic Notes.md",
+    "articles/Attention is all you need.md",
+    "Adam and Eve.md",
+    "Ethics.md",
+    "articles/A Roomba recorded a woman on the toilet.md",
+    "A closed, controlled and optimized information system owned by a monopoly is not desirable.md",
     "Zettelkasten/Untitled.base",
     "Zettelkasten/QEC/Can free speech be controlled by industry.md",
     "Zettelkasten/QEC/Can a monopoly be beneficial in improving a service.md",
@@ -247,23 +260,10 @@
     "Zettelkasten/tags/$cit.md",
     "Zettelkasten/Meditations On Moloch.md",
     "Zettelkasten/tags/$essays.md",
-    "Zettelkasten/tags/$idea.md",
-    "Zettelkasten/tags/$manga.md",
-    "Zettelkasten/tags/$memes.md",
-    "Zettelkasten/tags/$movies.md",
-    "Zettelkasten/tags/$podcasts.md",
-    "Zettelkasten/tags/$space.md",
-    "Zettelkasten/tags/$zettel.md",
-    "Zettelkasten/university/Analisi I.md",
-    "Zettelkasten/university/Diritto.md",
-    "Zettelkasten/university/Buddy Program UniTo.md",
-    "Zettelkasten/university/Erasmus.md",
-    "Zettelkasten/people/Will Monroe.md",
     "Zettelkasten/videos",
     "Zettelkasten/articles",
     "Zettelkasten/books",
     "Zettelkasten/university",
-    "Zettelkasten/people",
     "zettelkasten/Attachments/1*XKzDnXWCX0kgSSSxEyAtfg.webp",
     "zettelkasten/Attachments/anchovies_parse.svg",
     "zettelkasten/Attachments/20ffb446155d64ac747ff936c53b8e51807a44d5.png",

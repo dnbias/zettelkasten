@@ -1,13 +1,9 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
-  "leftRibbon": [],
-  "rightRibbon": [],
-  "titleBar": [],
-  "statusBar": [
+  "fileMenu": [
     {
       "id": "omnisearch:show-modal",
       "icon": "lucide-search",
@@ -15,11 +11,17 @@
       "mode": "any"
     }
   ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "sync"
+    ],
     "leftRibbon": []
   },
   "spacing": 8,

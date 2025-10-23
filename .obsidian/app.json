@@ -2,5 +2,6 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "showInlineTitle": true
 }
