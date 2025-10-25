@@ -9,8 +9,7 @@ Informazioni corso
 
 - Scritto
 - Orale facoltativo - per la Lode
-
-# [[Sistemi Operativi]]
+- [[Sistemi Operativi]]
 
 # [[Unix]]
 
@@ -22,9 +21,9 @@ Informazioni corso
 
 ### 2 Kernel Originari
 
-1.  AT&T
+1. AT&T
 
-2.  BSD
+2. BSD
 
 ### Richard Stallman lancia lo GNU Project `1983`
 
@@ -36,80 +35,80 @@ Free as in Freedom, il punto non e' sulla gratuita'
 
 ### Linus Torvalds, inizia a lavorare su Linux - Unix-like `1991`
 
-Progressive Licensing ~ software distrubuibile gratuitamente
+Progressive Licensing ~ software distribuibile gratuitamente
 
-1.  Linux e' il kernel
+1. Linux e' il kernel
 
 ### OS
 
 strato che mette in comunicazione utente e hardware
 
-1.  Kernel
+1. Kernel
 
-    strato piu' basso
+    strato più basso
 
     - composto di funzioni autonome
       - non utilizzate direttamente dall'utente
 
-    1.  Permette l'accesso all'hardware
+    1. Permette l'accesso all'hardware
 
-    2.  Device
+    2. Device
 
-    3.  Processi
+    3. Processi
 
         Sono programmi in esecuzione
 
-        1.  un kernel facilita la creazione e la gestione dei processi
+        1. un kernel facilita la creazione e la gestione dei processi
 
-        2.  Fork
+        2. Fork
 
             System call
 
             - crea una seconda linea di computazione
 
-            1.  crezioni di processi
+            1. creazione di processi
 
                 Processi possono creare altri processi
 
-                1.  Genitori
+                1. Genitori
 
-                2.  Figli
+                2. Figli
 
-            2.  biforcazione della linea di computazione
+            2. biforcazione della linea di computazione
 
-        3.  Comunicazione tra Processi
+        3. Comunicazione tra Processi
 
             per permetterne la collaborazione
 
-    4.  Gestione della Memoria
+    4. Gestione della Memoria
 
-        1.  Virtualizzazione della Memoria
+        1. Virtualizzazione della Memoria
 
             spostamento parti di processi in Memoria Secondaria
 
             - poi ripresa attraverso `paging`
 
-            1.  Swap
+            1. Swap
 
                 spostamento di interi processi nella memoria secondaria
 
-    5.  Operazioni sul Filesystem
+    5. Operazioni sul Filesystem
 
-    6.  Un kernel e' construito per un hardware specifico
+    6. Un kernel e' construito per un hardware specifico
 
-2.  Shell
+2. Shell
 
-    1.  interprete di comandi
+    1. interprete di comandi
 
-    2.  permette l'interazione utente - sistema
+    2. permette l'interazione utente - sistema
 
-    3.  oggetto utilizzato per l'amministrazione della macchina
+    3. oggetto utilizzato per l'amministrazione della macchina
 
         \$ cat /etc/shells
 
         \$ tar cvzf foo.tgz cps100 \$ tar xvzf foo.tgz
 
-3.  Filesystem
+3. Filesystem
 
     Visione astratta che visualizza il contenuto della memoria secondaria della macchina
 
@@ -122,49 +121,49 @@ strato che mette in comunicazione utente e hardware
       - tmp/ spazio temporaneo
       - usr/ spazio programmi degli utenti
 
-    1.  permette all'utente di
+    1. permette all'utente di
 
-        1.  visualizzare
+        1. visualizzare
 
-        2.  organizzare
+        2. organizzare
 
-        3.  interagire le directories della macchina
+        3. interagire le directories della macchina
 
-4.  Applicazioni
+4. Applicazioni
 
     comandi, parti
 
-    1.  Comandi
+    1. Comandi
 
         - comando
         - argomenti
         - flag con o senza dash che li preceda
 
-        1.  tar
+        1. tar
 
-        2.  man
+        2. man
 
             \>man 1 command
 
             - Possibile specificare la sezione con numero
 
-        3.  grep
+        3. grep
 
             global regular expression print
 
             - cerca pattern
 
-        4.  tail
+        4. tail
 
-        5.  head
+        5. head
 
-        6.  less
+        6. less
 
-        7.  more
+        7. more
 
-        8.  mv
+        8. mv
 
-        9.  rm
+        9. rm
 
         10. cp
 
@@ -173,7 +172,7 @@ strato che mette in comunicazione utente e hardware
             wildcards
 
             - ? qualsiasi carattere 1 volta
-            - 
+            -
             - [ ] match tra uno dei caratteri specificati
 
         12. Input Output Redirection
@@ -190,52 +189,52 @@ strato che mette in comunicazione utente e hardware
 
             \> echo \$SHELL
 
-5.  Filosofia
+5. Filosofia
 
-    1.  Semplicita'
+    1. Semplicita'
 
         ciascun componente deve essere breve
 
-    2.  Focus
+    2. Focus
 
         fare una cosa bene
 
         - piu' semplice da mantenere
 
-    3.  Componenti Riutilizzabili
+    3. Componenti Riutilizzabili
 
-    4.  Filtri
+    4. Filtri
 
         strumenti che trasformano l'input in un output
 
-    5.  File in formati aperti
+    5. File in formati aperti
 
         UTF8 ~ UTF16
 
-    6.  Flessibilita'
+    6. Flessibilita'
 
         Evitare limiti arbitrari
 
-6.  Account
+6. Account
 
     Privilegi dei vari account
 
-    1.  root
+    1. root
 
         completo controllo
 
         - puo' distruggere il sistema
         - e' dato per scontato che si abbia conoscenza dei pericoli
 
-    2.  system
+    2. system
 
-    3.  utente
+    3. utente
 
         - nomi
           - si usavano al piu' di 8 caratteri
         - poco accesso
 
-    4.  Gruppi
+    4. Gruppi
 
         ogni file ha permessi per:
 
@@ -245,7 +244,7 @@ strato che mette in comunicazione utente e hardware
 
         Consentono il controllo di accessi su parti diverse della macchina in una macchina condivisa
 
-    5.  Permessi
+    5. Permessi
 
         il superutente o il proprietario di una risorsa puo' cambiarne la proprieta'
 
@@ -265,21 +264,21 @@ strato che mette in comunicazione utente e hardware
         - absolute
           - ogni numero indica il valore in binario dei permessi di ogni gruppo(owner\|group\|others)
 
-        1.  Tipi di permessi
+        1. Tipi di permessi
 
-            1.  r
+            1. r
 
-            2.  w
+            2. w
 
-            3.  e
+            3. e
 
-        2.  utenti
+        2. utenti
 
-            1.  u
+            1. u
 
-            2.  g
+            2. g
 
-            3.  o
+            3. o
 
 ## Integrazione C
 
