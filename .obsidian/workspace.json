@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3063084f90e50f4d",
+        "id": "7faf7b85aa3e80bf",
         "type": "tabs",
         "children": [
           {
-            "id": "52dde46d73a0f3d4",
+            "id": "349e6daa646efb7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "programming/Advent of Code 2019  - Blog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Advent of Code 2019  - Blog"
             }
           }
         ]
@@ -29,7 +43,6 @@
       {
         "id": "56a4af66a84a2aad",
         "type": "tabs",
-        "dimension": 77.10233029381965,
         "children": [
           {
             "id": "0481b5688984c8f8",
@@ -53,29 +66,30 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "228a68210388305f",
-        "type": "tabs",
-        "dimension": 22.897669706180345,
-        "children": [
+          },
           {
-            "id": "10c5fcb37820b441",
+            "id": "7c67a0df0d3626b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "015db1942ad49e7a",
@@ -92,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dotfile management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for dotfile management"
             }
           },
           {
@@ -208,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 226.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,44 +242,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10c5fcb37820b441",
+  "active": "349e6daa646efb7f",
   "lastOpenFiles": [
-    "Computational Neuroscience.md",
-    "Adapter.md",
-    "A robot collecting the data does not mean the treatment will be automatic.md",
-    "Abstract Factory.md",
-    "Adder.md",
-    "tags/$zettel.md",
-    "Note Taking.md",
-    "Atomic Notes.md",
-    "articles/Attention is all you need.md",
-    "Adam and Eve.md",
-    "Ethics.md",
-    "articles/A Roomba recorded a woman on the toilet.md",
+    "university/Intelligent Agents I.md",
+    "programming/Advent of Code 2019  - Blog.md",
+    "university/Analisi I.md",
+    "programming/dotfile management.md",
+    "concepts/IQ.md",
+    "concepts/Flynn effect.md",
+    "people/James Flynn.md",
+    "people/A. G. Bierce.md",
+    "INDEX.base",
     "A closed, controlled and optimized information system owned by a monopoly is not desirable.md",
+    "000 index/Zzamboni.md",
+    "000 index/Zettelkasten.md",
+    "000 index/Zettelkasten principles.md",
+    "000 index/Zero.md",
+    "000 index/Zen.md",
+    "000 index/You don't love the Spirit Of Justice.md",
+    "000 index/YAEMK.md",
+    "000 index/Xanadu.md",
+    "000 index/WSDL.md",
+    "000 index/work-life balance.md",
+    "000 index/Work with the garage door up.md",
+    "000 index/WMD create and reinforce disparity.md",
+    "000 index/WMD are easily scalable.md",
+    "000 index/WMD are conservative by design.md",
+    "000 index/WMD are a thread to democracy.md",
+    "000 index/Wittgenstein.md",
+    "000 index/Wisecrack.md",
+    "000 index",
     "Zettelkasten/Untitled.base",
-    "Zettelkasten/QEC/Can free speech be controlled by industry.md",
-    "Zettelkasten/QEC/Can a monopoly be beneficial in improving a service.md",
-    "Zettelkasten/people/C.S. Lewis.md",
-    "Zettelkasten/books/The Master Switch.md",
-    "Can free speech be controlled by industry.md",
-    "Zettelkasten/Etica, Società e Privacy.md",
-    "Zettelkasten/Kronos effect.md",
-    "Q/E/C.md",
     "Q/E",
     "Q",
     "Zettelkasten/QEC",
-    "Zettelkasten/A closed, controlled and optimized information system owned by a monopoly is not desirable.md",
-    "Zettelkasten/Apocrypha Discordia.md",
     "Zettelkasten/concepts",
     "Zettelkasten/games",
-    "Zettelkasten/tags/$cit.md",
-    "Zettelkasten/Meditations On Moloch.md",
-    "Zettelkasten/tags/$essays.md",
     "Zettelkasten/videos",
     "Zettelkasten/articles",
-    "Zettelkasten/books",
-    "Zettelkasten/university",
     "zettelkasten/Attachments/1*XKzDnXWCX0kgSSSxEyAtfg.webp",
     "zettelkasten/Attachments/anchovies_parse.svg",
     "zettelkasten/Attachments/20ffb446155d64ac747ff936c53b8e51807a44d5.png",
