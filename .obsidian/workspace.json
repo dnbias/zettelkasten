@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Advent of Code 2019  - Blog"
             }
+          },
+          {
+            "id": "2d4dba341110bab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Handmade Hero.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Handmade Hero"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "015db1942ad49e7a",
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotfile management.md",
+                "file": "Handmade Hero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dotfile management"
+              "title": "Backlinks for Handmade Hero"
             }
           },
           {
@@ -242,10 +266,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "349e6daa646efb7f",
+  "active": "0481b5688984c8f8",
   "lastOpenFiles": [
-    "university/Intelligent Agents I.md",
+    "programming/Handmade Hero.md",
     "programming/Advent of Code 2019  - Blog.md",
+    "university/Intelligent Agents I.md",
     "university/Analisi I.md",
     "programming/dotfile management.md",
     "concepts/IQ.md",
@@ -270,7 +295,6 @@
     "000 index/WMD are conservative by design.md",
     "000 index/WMD are a thread to democracy.md",
     "000 index/Wittgenstein.md",
-    "000 index/Wisecrack.md",
     "000 index",
     "Zettelkasten/Untitled.base",
     "Q/E",

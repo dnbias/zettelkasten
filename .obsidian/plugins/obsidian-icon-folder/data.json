@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcRead24",
+      "OcDeviceDesktop16",
+      "💾",
       "OcVideo16",
-      "LiNotebook",
-      "LiHash",
-      "OcPerson24",
-      "OcQuestion24"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,7 @@
   "people": "OcPerson24",
   "tags": "LiHash",
   "university": "LiNotebook",
-  "videos": "OcVideo16"
+  "videos": "OcVideo16",
+  "programming": "OcDeviceDesktop16",
+  "blogs": "OcRead24"
 }
