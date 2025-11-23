@@ -1,3 +1,4 @@
+#programming #go
 - [GitHub repo](https://github.com/dnbias/aoc2019)
 
 My blog of the epic [[Advent of Code]] 2019.
